@@ -12,4 +12,4 @@ Team members: [Paritosh Dahiya](https://github.com/hnhparitosh), [Rishaab Kalra]
 * Obtained 55.47958 accuracy on test set.
 * Achieved 141st rank on the leaderboard out of 3290 teams (518 teams made submissions).
 
-Majority code is based on [TUdayKiranReddy's Repository](https://github.com/TUdayKiranReddy/Amazon_ML_Challenge).
+Majority of code is based on [TUdayKiranReddy's Notebook](https://github.com/TUdayKiranReddy/Amazon_ML_Challenge).
