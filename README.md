@@ -10,4 +10,4 @@ Team members: [Paritosh Dahiya](https://github.com/hnhparitosh), [Rishaab Kalra]
 * Tried multiple sklearn classifiers and XgBoost too, but best results were given with LinearSVC classifier.
 * Trained on 50,000 samples.
 * Obtained 55.47958 accuracy on test set.
-* Achieved 141st rank on the leaderboard out of 3290 teams.
+* Achieved 141th rank on the leaderboard out of 3290 teams.
